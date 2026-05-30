@@ -1,15 +1,18 @@
 <h1 align="center">Hi 👋, I'm M A SUSHIL KUMAR</h1>
-<h3 align="center">B.Tech AI & Data Science Student | AI & Backend Enthusiast | Sophomore at MIT, Anna University</h3>
+
+<h3 align="center">
+  B.Tech AI & Data Science Student | AI & Backend Enthusiast | Sophomore at MIT, Anna University
+</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sushil006">
-    <img src="https://img.shields.io/badge/LinkedIn-Sushil%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sushil006" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sushil%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sushilmit28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sushilmit28%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-sushilmit28%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/skoder404">
-    <img src="https://img.shields.io/badge/GitHub-skoder404-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/skoder404" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-skoder404-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -20,17 +23,9 @@
 I am a **2nd year B.Tech Artificial Intelligence and Data Science student** at  
 **Madras Institute of Technology, Anna University**, Chennai.
 
-I am passionate about building real-world solutions using **AI, backend systems, cloud databases, and computer vision**.  
-Currently, I am exploring **AI Agents, RAG-based systems, Advanced DSA, and DevOps**.
+I am interested in building real-world solutions using **AI, backend systems, cloud databases, and computer vision**.
 
----
-
-## 🚀 Currently Working On
-
-- Building **AI Agents** and **RAG-based intelligent systems**
-- Improving my skills in **Advanced Data Structures and Algorithms**
-- Learning **DevOps** for deployment and production-level development
-- Exploring backend systems using **Java, Azure, and cloud databases**
+Currently, I am working on **AI Agents** and **RAG-based intelligent systems**, while also learning **Advanced DSA** and **DevOps**.
 
 ---
 
@@ -44,7 +39,7 @@ Currently, I am exploring **AI Agents, RAG-based systems, Advanced DSA, and DevO
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### Frontend Development
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -74,10 +69,9 @@ Currently, I am exploring **AI Agents, RAG-based systems, Advanced DSA, and DevO
 
 A computer vision-based driver drowsiness detection system designed to detect early signs of fatigue using facial behavior analysis.
 
-**Key Highlights:**
-- Developed a **threshold-based model** using manual thresholding techniques
-- Built a **hybrid model** combining model-based prediction with manual rule-based detection
-- Used facial analysis techniques for drowsiness detection
+- Built a **threshold-based model** using manual thresholding techniques
+- Developed a **hybrid model** combining model-based prediction with rule-based detection
+- Used OpenCV-based facial analysis for fatigue detection
 
 **Tech Stack:** Python, OpenCV, Computer Vision
 
@@ -85,13 +79,12 @@ A computer vision-based driver drowsiness detection system designed to detect ea
 
 ### 2. Cloud-Based Financial Intelligence System
 
-A cloud-based backend financial intelligence platform built to manage authentication, income, expenses, and ML-based financial insights.
+A cloud-based backend financial intelligence platform for managing authentication, income, expenses, and ML-based financial insights.
 
-**My Contributions:**
 - Developed the **Auth Service** for secure user authentication
 - Built the **Expense Service** to manage income and expense records
-- Worked on ML-based financial insight generation
 - Integrated **Azure Cosmos DB** as the main cloud database backend
+- Worked on ML-based financial insight generation
 
 **Tech Stack:** Java, Azure, Azure Cosmos DB, Backend Development, Machine Learning
 
@@ -101,10 +94,9 @@ A cloud-based backend financial intelligence platform built to manage authentica
 
 An AI-powered cattle breed recognition and marketplace-oriented system that identifies cattle breeds using a trained machine learning model.
 
-**Key Highlights:**
 - Trained models on multiple cattle breeds
-- Built a breed recognition system using image input
-- Designed the project with marketplace-based use cases for cattle-related insights
+- Built image-based cattle breed recognition
+- Designed marketplace-focused features for cattle-related insights
 
 **Tech Stack:** Python, Machine Learning, Computer Vision, OpenCV
 
@@ -116,22 +108,22 @@ An AI-powered cattle breed recognition and marketplace-oriented system that iden
 - DevOps
 - AI Agents
 - RAG Systems
-- Cloud-based backend development
+- Cloud-based Backend Development
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skoder404&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skoder404&show_icons=true&theme=tokyonight&hide_border=true" alt="Sushil's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skoder404&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=skoder404&theme=tokyonight&hide_border=true" alt="Sushil's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoder404&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoder404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -139,11 +131,14 @@ An AI-powered cattle breed recognition and marketplace-oriented system that iden
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/sushil006">
-    <img src="https://img.shields.io/badge/LinkedIn-Sushil%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sushil006" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sushil%20Kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sushilmit28@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sushilmit28%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-sushilmit28%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/skoder404" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-skoder404-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

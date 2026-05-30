@@ -3,7 +3,9 @@
 🎓 **B.Tech AI & Data Science** · Madras Institute of Technology, Anna University · Chennai
 
 🚀 Currently working on: **AI Agents** and **RAG-based intelligent systems**
+
 🌱 Learning: **Advanced DSA · DevOps · LLMs · Cloud Backend**
+
 💬 Ask me about: **Python · Computer Vision · Cloud Deployment · Backend Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sushil006-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil006)

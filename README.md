@@ -157,13 +157,12 @@ An AI-powered cattle breed recognition and marketplace-oriented system that iden
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skoder404&theme=tokyonight" 
     alt="Top Languages by Repo" 
+    width="45%" 
   />
-</p>
-
-<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skoder404&theme=tokyonight" 
     alt="Top Languages by Commit" 
+    width="45%" 
   />
 </p>
 

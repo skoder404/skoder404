@@ -1,9 +1,11 @@
 <div align="center">
 
-<h1 align="center">Hi, I'm M A Sushil Kumar 👋</h1>
+<!-- Animated Name -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=3000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Hi%2C+I%27m+M+A+Sushil+Kumar+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 <h3 align="center">🤖 AI & Data Science Engineer · Computer Vision · Backend · Cloud</h3>
 
-<!-- Typing Animation -->
+<!-- Role Cycling Animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%40+MIT+Anna+University;Building+AI+Agents+%26+RAG+Systems;Computer+Vision+%7C+Backend+%7C+Cloud;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
@@ -143,19 +145,14 @@ Currently building intelligent agentic systems using **LLMs + RAG pipelines** wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skoder404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=skoder404&theme=tokyonight" width="32%" />
 <img src="https://streak-stats.demolab.com?user=skoder404&theme=tokyonight&hide_border=true" width="32%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoder404&theme=tokyonight&hide_border=true&layout=compact" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skoder404&theme=tokyonight" width="32%" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<!-- Footer Wave -->
----
-
-<p align="center"><i>⭐ If you find my work interesting, consider starring my repos!</i></p>
-
+<p><i>⭐ If you find my work interesting, consider starring my repos!</i></p>
 </div>

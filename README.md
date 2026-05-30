@@ -1,9 +1,10 @@
-# M A Sushil Kumar
+# Hi, I'm M A Sushil Kumar 👋
 
-**B.Tech AI & Data Science · Madras Institute of Technology, Anna University · Chennai**
+🎓 **B.Tech AI & Data Science** · Madras Institute of Technology, Anna University · Chennai
 
-Building real-world solutions at the intersection of AI, backend systems, and computer vision.
-Currently focused on **AI Agents**, **RAG systems**, and **cloud-native backend development**.
+🚀 Currently working on: **AI Agents** and **RAG-based intelligent systems**
+🌱 Learning: **Advanced DSA · DevOps · LLMs · Cloud Backend**
+💬 Ask me about: **Python · Computer Vision · Cloud Deployment · Backend Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sushil006-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushil006)
 [![GitHub](https://img.shields.io/badge/GitHub-skoder404-181717?style=flat&logo=github&logoColor=white)](https://github.com/skoder404)
@@ -11,41 +12,35 @@ Currently focused on **AI Agents**, **RAG systems**, and **cloud-native backend 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Python · C++ · Java · JavaScript
+**Languages &nbsp;·** &nbsp; Python &nbsp;|&nbsp; C++ &nbsp;|&nbsp; Java &nbsp;|&nbsp; JavaScript
 
-**Frontend:** HTML5 · CSS3 · React
+**Frontend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·** &nbsp; HTML5 &nbsp;|&nbsp; CSS3 &nbsp;|&nbsp; React
 
-**Backend & Cloud:** Azure · Azure Cosmos DB · MongoDB · PostgreSQL
+**Backend &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·** &nbsp; Azure &nbsp;|&nbsp; Azure Cosmos DB &nbsp;|&nbsp; MongoDB &nbsp;|&nbsp; PostgreSQL
 
-**Tools & Libraries:** OpenCV · Git
+**Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;·** &nbsp; OpenCV &nbsp;|&nbsp; Git
 
 ---
 
-## Projects
+## 📌 Featured Projects
 
-**🚗 Early Fatigue Detection System**
-Driver drowsiness detection using facial behavior analysis. Built threshold-based and hybrid models combining rule-based detection with model-based prediction.
+🚗 **Early Fatigue Detection System**
+Driver drowsiness detection via facial behavior analysis. Built threshold-based and hybrid models combining rule-based logic with model-based prediction.
 `Python` `OpenCV` `Computer Vision`
 
-**💰 Cloud-Based Financial Intelligence System**
-Backend platform for authentication, expense tracking, and ML-driven financial insights. Built auth and expense microservices backed by Azure Cosmos DB.
+💰 **Cloud-Based Financial Intelligence System**
+Backend platform for auth, expense tracking, and ML-driven financial insights. Microservices architecture backed by Azure Cosmos DB.
 `Java` `Azure` `Cosmos DB` `Machine Learning`
 
-**🐄 Agrivista AI – Cattle Breed Recognition**
-AI-powered cattle breed identification with marketplace-focused insights. Trained multi-breed classification models with image-based recognition.
+🐄 **Agrivista AI – Cattle Breed Recognition**
+AI-powered cattle breed identification with marketplace-focused insights. Multi-breed image classification using trained ML models.
 `Python` `Machine Learning` `OpenCV`
 
 ---
 
-## Currently Learning
-
-`Advanced DSA` · `DevOps` · `AI Agents` · `RAG Systems` · `Cloud Backend`
-
----
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=skoder404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

@@ -115,15 +115,16 @@ An AI-powered cattle breed recognition and marketplace-oriented system that iden
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skoder404&show_icons=true&theme=tokyonight&hide_border=true" alt="Sushil's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skoder404&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=skoder404&theme=tokyonight&hide_border=true" alt="Sushil's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=skoder404&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoder404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skoder404&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skoder404&theme=tokyonight" alt="Top Languages by Commit" />
 </p>
 
 ---

@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=M%20A%20Sushil%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=M%20A%20Sushil%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%40+MIT+Anna+University;Building+AI+Agents+%26+RAG+Systems;Computer+Vision+%7C+Backend+%7C+Cloud;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=B.Tech+AI+%26+Data+Science+%40+MIT+Anna+University;Building+AI+Agents+%26+RAG+Systems;Computer+Vision+%7C+Backend+%7C+Cloud;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -156,7 +156,7 @@ Currently building intelligent agentic systems using **LLMs + RAG pipelines** wi
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 *⭐ If you find my work interesting, consider starring my repos!*
 

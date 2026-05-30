@@ -79,8 +79,8 @@ me.say_hi()
 
 Real-time driver drowsiness detection using facial behavior analysis. Built a **threshold-based model** and a **hybrid model** combining rule-based logic with ML prediction.
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat&logo=opencv&logoColor=white)](https://docs.opencv.org/)
 
 </td>
 <td width="50%">
@@ -90,8 +90,9 @@ Real-time driver drowsiness detection using facial behavior analysis. Built a **
 
 Cloud-native backend for auth, expense tracking, and ML-driven financial insights. Microservices architecture deployed on **Azure** with **Cosmos DB**.
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+[![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://docs.oracle.com/en/java/)
+[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/)
+[![Cosmos DB](https://img.shields.io/badge/-Cosmos%20DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/azure/cosmos-db/)
 
 </td>
 </tr>
@@ -103,8 +104,9 @@ Cloud-native backend for auth, expense tracking, and ML-driven financial insight
 
 AI-powered cattle breed identification with marketplace-focused insights. Multi-breed image classification using trained ML models.
 
-![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
+[![Python](https://img.shields.io/badge/-Python-3670A0?style=flat&logo=python&logoColor=white)](https://docs.python.org/3/)
+[![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat&logo=opencv&logoColor=white)](https://docs.opencv.org/)
+[![Scikit-learn](https://img.shields.io/badge/-ML-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
 
 </td>
 <td width="50%">
@@ -114,8 +116,8 @@ AI-powered cattle breed identification with marketplace-focused insights. Multi-
 
 Currently building intelligent agentic systems using **LLMs + RAG pipelines** with real-world cloud integration. Stay tuned 👀
 
-![LLM](https://img.shields.io/badge/-LLMs-6C63FF?style=flat&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/-RAG%20Systems-FF6B6B?style=flat)
+[![LLMs](https://img.shields.io/badge/-LLMs-6C63FF?style=flat&logo=openai&logoColor=white)](https://platform.openai.com/docs)
+[![RAG](https://img.shields.io/badge/-RAG%20Systems-FF6B6B?style=flat)](https://python.langchain.com/docs/concepts/rag/)
 
 </td>
 </tr>
@@ -141,13 +143,9 @@ Currently building intelligent agentic systems using **LLMs + RAG pipelines** wi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=skoder404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=skoder404&theme=tokyonight&hide_border=true" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=skoder404&theme=tokyonight" width="45%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=skoder404&theme=tokyonight" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=skoder404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
+<img src="https://streak-stats.demolab.com?user=skoder404&theme=tokyonight&hide_border=true" width="32%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skoder404&theme=tokyonight&hide_border=true&layout=compact" width="32%" />
 
 </div>
 
@@ -157,8 +155,7 @@ Currently building intelligent agentic systems using **LLMs + RAG pipelines** wi
 
 <!-- Footer Wave -->
 ---
-<p align="center"><i>⭐ If you find my work interesting, consider starring my repos!</i></p>
 
-*⭐ If you find my work interesting, consider starring my repos!*
+<p align="center"><i>⭐ If you find my work interesting, consider starring my repos!</i></p>
 
 </div>
